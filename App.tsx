@@ -61,13 +61,13 @@ import { Ionicons } from '@expo/vector-icons';
 // !! PASTE YOUR FIREBASE CONFIG OBJECT HERE
 // You can get this from your Firebase project settings
 const firebaseConfig = {
-  apiKey: "key",
-  authDomain: "lostdfou",
-  projectId: "loandound",
-  storageBucket: "lostandfoud",
-  messagingSenderId: "10525",
-  appId: "1:105b",
-  measurementId: "G"
+  apiKey: "AIzaSyAXl2HJl77IYroB4E-l_jJdQHFwFgJs6WM",
+  authDomain: "lostandfound-404.firebaseapp.com",
+  projectId: "lostandfound-404",
+  storageBucket: "lostandfound-404.firebasestorage.app",
+  messagingSenderId: "1026619755215",
+  appId: "1:1026619755215:web:6933fac4ceb18c481645ba",
+  measurementId: "G-ZHGGKG8WNJ"
 };
 
 // Initialize Firebase
